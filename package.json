@@ -1,0 +1,14 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "Projeto MERN",
+  "scripts": {
+    "format": "prettier './**/*.{js,jsx,json,css,ts,tsx}' --ignore-path .gitignore --write"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.6.2"
+  }
+}
